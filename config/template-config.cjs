@@ -16,7 +16,7 @@ const TEMPLATE_CONFIG = [
       {{wealth_horoscope.DATA}}
       {{healthy_horoscope.DATA}}
       ---
-      今天是我们相识的第{{love_day.DATA}}天
+      今天是我们相识的第{{marry_day.DATA}}天
       {{birthday_message.DATA}}
       ---
       今日文案：{{moment_copyrighting.DATA}}
