@@ -61,7 +61,6 @@ const USER_CONFIG = {
         { keyword: 'marry_day', date: '2017-12-30' },
       ],
     },
-  ],
 }
 
 module.exports = USER_CONFIG
