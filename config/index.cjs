@@ -14,11 +14,11 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '',
 
-  PROVINCE: '江苏',
-  CITY: '南京',
+  PROVINCE: '广东',
+  CITY: '惠州',
 
   USERS: [
-    {
+        {
       name: '鹏鹏',
       id: 'PDU16843Tb9OS4cg8VyECcsVOgJBkr7mCtlWKPiEL',
       useTemplateId: '0001',
@@ -35,11 +35,11 @@ const USER_CONFIG = {
         { keyword: 'marry_day', date: '2017-12-30' },
       ],
     },
-      {
+        {
       name: '平平',
       id: 'PDU16843Tb9OS4cg8VyECcsVOgJBkr7mCtlWKPiEL',
       useTemplateId: '0001',
-      horoscopeDate: '02-08',
+      horoscopeDate: '11-01',
       festivals: [
         {
           type: '*生日', name: '鹏鹏', year: '1992', date: '01-18',
@@ -52,16 +52,10 @@ const USER_CONFIG = {
         { keyword: 'marry_day', date: '2017-12-30' },
       ],
     },
-      ],
-      // 我们在一起已经有xxxx天了的配置
-      customizedDateList: [
-        // 在一起的日子
-//         { keyword: 'love_day', date: '2022-09-08' },
-        // 结婚纪念日
-        { keyword: 'marry_day', date: '2017-12-30' },
-      ],
-    },
+  ],
 }
 
 module.exports = USER_CONFIG
+
+
 
