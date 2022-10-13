@@ -37,7 +37,7 @@ const USER_CONFIG = {
     },
         {
       name: '平平',
-      id: 'PDU16843Tb9OS4cg8VyECcsVOgJBkr7mCtlWKPiEL',
+      id: 'PDU16886TQ2sg2MU8jb8O0uZt9G1uTZvQAlAT6z4L',
       useTemplateId: '0001',
       horoscopeDate: '11-01',
       festivals: [
